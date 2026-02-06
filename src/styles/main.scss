@@ -82,5 +82,6 @@ body{
 
     &:hover{
         cursor: pointer;
+        background-color: variaveis.$corBtnHover;
     }
 }
