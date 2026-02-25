@@ -38,6 +38,15 @@
 
         @media (max-width: 768px){
             display: block;
+
+            &__item{
+                padding: 0 0 44px;
+            }
+
+            p{
+                padding: 0px 20px;
+            }
+
         }
     }
 
